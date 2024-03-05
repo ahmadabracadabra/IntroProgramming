@@ -1,0 +1,18 @@
+Beck
+Pascal: A guided Tour
+$34.59
+Stallings
+Computer Security
+$76.99
+Hartley
+Concurrent Programming
+$45.00
+Warford
+Computer Systems
+$34.00
+Ford
+Data Structures with C++
+$39.99
+Roberts
+Thinking Recursively
+$35.50
